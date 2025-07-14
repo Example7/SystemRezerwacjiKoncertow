@@ -32,12 +32,15 @@ php artisan migrate
 php artisan serve
 ```
 
-📷 Screenshoty:
-Panel administratora
+## 📷 Screenshoty:
 
-Widok użytkownika
+### Panel administratora  
+![Panel administratora](screenshots/admin_page.png)
 
-👨‍💻 Autor:
+### Widok użytkownika  
+![Widok użytkownika](screenshots/user_page.png)
+
+## 👨‍💻 Autor:
 Kacper (Example7)
 Student 7. semestru
 Kierunek: Programowanie Internetowych Aplikacji Biznesowych
