@@ -41,6 +41,4 @@ php artisan serve
 ![Widok użytkownika](screenshots/user_page.png)
 
 ## 👨‍💻 Autor:
-Kacper (Example7)
-Student 7. semestru
-Kierunek: Programowanie Internetowych Aplikacji Biznesowych
+**Kacper Kałużny ([Example7](https://github.com/Example7))**  
