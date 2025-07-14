@@ -30,3 +30,12 @@ php artisan key:generate
 # W pliku .env ustaw dane dostępowe do bazy danych
 php artisan migrate
 php artisan serve
+📷 Screenshoty:
+Panel administratora
+
+Widok użytkownika
+
+👨‍💻 Autor:
+Kacper (Example7)
+Student 7. semestru
+Kierunek: Programowanie Internetowych Aplikacji Biznesowych
